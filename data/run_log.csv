@@ -1,0 +1,2 @@
+run_at_utc,window,rows_fetched,rows_inserted,rows_updated,status
+2026-10-16T16:15:50+00:00,2015-01-01..2026-10-16,18120,18120,0,success

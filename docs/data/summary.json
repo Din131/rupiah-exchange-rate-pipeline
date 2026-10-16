@@ -1,0 +1,51 @@
+{
+  "generated_at": "2026-10-16T16:15:55+00:00",
+  "first_date": "2014-12-31",
+  "last_date": "2026-10-16",
+  "row_count": 18120,
+  "source": "European Central Bank reference rates via Frankfurter API",
+  "currencies": {
+    "USD": {
+      "date": "2026-10-16",
+      "idr_per_unit": 18030.9962,
+      "change": 86.4477,
+      "change_pct": 0.482,
+      "volatility_30d_pct": 0.331
+    },
+    "SGD": {
+      "date": "2026-10-16",
+      "idr_per_unit": 14095.3664,
+      "change": 108.1281,
+      "change_pct": 0.773,
+      "volatility_30d_pct": 0.298
+    },
+    "EUR": {
+      "date": "2026-10-16",
+      "idr_per_unit": 20290.28,
+      "change": 178.03,
+      "change_pct": 0.885,
+      "volatility_30d_pct": 0.371
+    },
+    "JPY": {
+      "date": "2026-10-16",
+      "idr_per_unit": 114.1057,
+      "change": 0.5157,
+      "change_pct": 0.454,
+      "volatility_30d_pct": 0.423
+    },
+    "CNY": {
+      "date": "2026-10-16",
+      "idr_per_unit": 2696.7411,
+      "change": 14.8575,
+      "change_pct": 0.554,
+      "volatility_30d_pct": 0.335
+    },
+    "MYR": {
+      "date": "2026-10-16",
+      "idr_per_unit": 4417.7491,
+      "change": 22.3014,
+      "change_pct": 0.507,
+      "volatility_30d_pct": 0.381
+    }
+  }
+}
