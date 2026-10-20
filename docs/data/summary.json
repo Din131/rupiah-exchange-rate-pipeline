@@ -1,50 +1,50 @@
 {
-  "generated_at": "2026-10-17T01:19:55+00:00",
+  "generated_at": "2026-10-20T01:50:44+00:00",
   "first_date": "2014-12-31",
-  "last_date": "2026-10-16",
-  "row_count": 18120,
+  "last_date": "2026-10-19",
+  "row_count": 18126,
   "source": "European Central Bank reference rates via Frankfurter API",
   "currencies": {
     "USD": {
-      "date": "2026-10-16",
-      "idr_per_unit": 18030.9962,
-      "change": 86.4477,
-      "change_pct": 0.482,
+      "date": "2026-10-19",
+      "idr_per_unit": 18042.9042,
+      "change": 11.908,
+      "change_pct": 0.066,
       "volatility_30d_pct": 0.331
     },
     "SGD": {
-      "date": "2026-10-16",
-      "idr_per_unit": 14095.3664,
-      "change": 108.1281,
-      "change_pct": 0.773,
+      "date": "2026-10-19",
+      "idr_per_unit": 14106.819,
+      "change": 11.4526,
+      "change_pct": 0.081,
       "volatility_30d_pct": 0.298
     },
     "EUR": {
-      "date": "2026-10-16",
-      "idr_per_unit": 20290.28,
-      "change": 178.03,
-      "change_pct": 0.885,
+      "date": "2026-10-19",
+      "idr_per_unit": 20253.16,
+      "change": -37.12,
+      "change_pct": -0.183,
       "volatility_30d_pct": 0.371
     },
     "JPY": {
-      "date": "2026-10-16",
-      "idr_per_unit": 114.1057,
-      "change": 0.5157,
-      "change_pct": 0.454,
-      "volatility_30d_pct": 0.423
+      "date": "2026-10-19",
+      "idr_per_unit": 114.0188,
+      "change": -0.0869,
+      "change_pct": -0.076,
+      "volatility_30d_pct": 0.379
     },
     "CNY": {
-      "date": "2026-10-16",
-      "idr_per_unit": 2696.7411,
-      "change": 14.8575,
-      "change_pct": 0.554,
+      "date": "2026-10-19",
+      "idr_per_unit": 2700.7454,
+      "change": 4.0043,
+      "change_pct": 0.148,
       "volatility_30d_pct": 0.335
     },
     "MYR": {
-      "date": "2026-10-16",
-      "idr_per_unit": 4417.7491,
-      "change": 22.3014,
-      "change_pct": 0.507,
+      "date": "2026-10-19",
+      "idr_per_unit": 4419.5784,
+      "change": 1.8293,
+      "change_pct": 0.041,
       "volatility_30d_pct": 0.381
     }
   }
