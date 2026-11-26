@@ -1,51 +1,51 @@
 {
-  "generated_at": "2026-11-25T05:26:34+00:00",
+  "generated_at": "2026-11-26T05:05:42+00:00",
   "first_date": "2014-12-31",
-  "last_date": "2026-11-24",
-  "row_count": 18282,
+  "last_date": "2026-11-25",
+  "row_count": 18288,
   "source": "European Central Bank reference rates via Frankfurter API",
   "currencies": {
     "USD": {
-      "date": "2026-11-24",
-      "idr_per_unit": 18228.204,
-      "change": 6.3007,
-      "change_pct": 0.035,
-      "volatility_30d_pct": 0.223
+      "date": "2026-11-25",
+      "idr_per_unit": 18340.8505,
+      "change": 112.6465,
+      "change_pct": 0.618,
+      "volatility_30d_pct": 0.244
     },
     "SGD": {
-      "date": "2026-11-24",
-      "idr_per_unit": 14131.6597,
-      "change": 18.8446,
-      "change_pct": 0.134,
-      "volatility_30d_pct": 0.237
+      "date": "2026-11-25",
+      "idr_per_unit": 14194.7201,
+      "change": 63.0604,
+      "change_pct": 0.446,
+      "volatility_30d_pct": 0.249
     },
     "EUR": {
-      "date": "2026-11-24",
-      "idr_per_unit": 19983.58,
-      "change": 50.64,
-      "change_pct": 0.254,
-      "volatility_30d_pct": 0.381
+      "date": "2026-11-25",
+      "idr_per_unit": 20055.72,
+      "change": 72.14,
+      "change_pct": 0.361,
+      "volatility_30d_pct": 0.383
     },
     "JPY": {
-      "date": "2026-11-24",
-      "idr_per_unit": 114.5913,
-      "change": 0.0408,
-      "change_pct": 0.036,
-      "volatility_30d_pct": 0.358
+      "date": "2026-11-25",
+      "idr_per_unit": 115.1172,
+      "change": 0.5259,
+      "change_pct": 0.459,
+      "volatility_30d_pct": 0.366
     },
     "CNY": {
-      "date": "2026-11-24",
-      "idr_per_unit": 2735.1163,
-      "change": 1.0185,
-      "change_pct": 0.037,
-      "volatility_30d_pct": 0.239
+      "date": "2026-11-25",
+      "idr_per_unit": 2747.3965,
+      "change": 12.2802,
+      "change_pct": 0.449,
+      "volatility_30d_pct": 0.247
     },
     "MYR": {
-      "date": "2026-11-24",
-      "idr_per_unit": 4429.1813,
-      "change": 9.5587,
-      "change_pct": 0.216,
-      "volatility_30d_pct": 0.278
+      "date": "2026-11-25",
+      "idr_per_unit": 4452.1766,
+      "change": 22.9953,
+      "change_pct": 0.519,
+      "volatility_30d_pct": 0.288
     }
   }
 }
